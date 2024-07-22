@@ -1,5 +1,12 @@
 # 💫 About Me:
-Hi, I'm Brandon👋<br>Full time College Student from New York City<br>🔭 I’m currently working on Connect 4 game using react<br>🌱 I’m currently learning basics of cyber sercurity<br>🤔 I’m looking for help with improving on problem solving with projects<br>😄 Pronouns: he/him<br>⚡ Fun fact: love boxing and tech<br>youtube channel talking about life, tech, college the ups and downs<br>here is a link to my youtube and linkedIn https://www.youtube.com/channel/UC0SEZtE7pHPAAR3biZb3PJQ, https://www.linkedin.com/in/brandon-olivencia-933759212/<br>Anurag's GitHub stats
+Hi, I'm Brandon 👋 I'm a full-time college student from New York City.
+
+🔭 I’m currently working on a Connect 4 game using React.
+🌱 I’m learning the basics of cybersecurity and pursuing my Google Cybersecurity Certificate.
+📚 This fall, I will be starting a CodePath cybersecurity course.
+🤔 I’m looking for help with improving my problem-solving skills through projects.
+😄 Pronouns: he/him.
+⚡ Fun facts: I love boxing, tech, making music, and fitness.
 
 
 ## 🌐 Socials:
