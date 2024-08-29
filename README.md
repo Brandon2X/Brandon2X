@@ -22,6 +22,12 @@ Hi, I'm Brandon 👋 I'm a full-time college student from New York City.
 ---
 [![](https://visitcount.itsvg.in/api?id=Brandon2X&icon=0&color=0)](https://visitcount.itsvg.in)
 
+Practiced how to write sercurity reports as a sercurity analyst 
+https://docs.google.com/document/d/1JCoOrbeD5QpKIHY_1drtwidbvy5nVepntMNNx-7QtZI/edit?usp=sharing&resourcekey=0-C2axp0eJElFk4azvK889FQ
+
+Practiced file permissions with linux commands
+https://docs.google.com/document/d/1U1JnjeC3aRj1iPA8UaHW1gkQgJUZ5_HtQK9-5PEe_Jw/edit?usp=sharing
+
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Brandon2X) 
 
